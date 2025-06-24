@@ -190,27 +190,7 @@ const projects = [
     image: aptihealthWeb,
     hosted_link: "https://shop-ease-pi.vercel.app/",
   },
-  {
-    name: "Fit Log",
-    description:
-      "FitLog is a web application designed to help users track their fitness journey. It allows users to log workouts, monitor progress, and maintain a structured fitness routine.",
-    tags: [
-      {
-        name: "react-native",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "sendbird",
-        color: "green-text-gradient",
-      },
-      {
-        name: "twilio",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: aptihealthApp,
-    hosted_link: "https://fitlog-omega.vercel.app/",
-  },
+ 
   {
     name: "Zeal Web",
     description:
