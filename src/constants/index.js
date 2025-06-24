@@ -301,7 +301,7 @@ const personalInfo = {
 
 const publicUrls = {
   resume:
-    "https://drive.google.com/file/d/1Af69XJ2ar4SG7oWrkyzZzJJE8QxNOyPb/view?usp=sharing",
+    "https://drive.google.com/file/d/1cMoQACN7sZkbjX14HtXBpFNzMTt9CiIh/view?usp=drive_link",
   socialProfiles: {
     linkedin: {
       title: "linkedin",
